@@ -12,5 +12,6 @@
   "hubot-youtube",
   "hubot-catme2",
   "hubot-remind-advanced",
-  "hubot-standup"
+  "hubot-standup",
+  "hubot-response"
 ]
