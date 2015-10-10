@@ -6,6 +6,7 @@
   "description": "Good at the bending",
   "dependencies": {
     "hubot": "^2.16.0",
+    "hubot-business-cat": "^1.2.5",
     "hubot-catme2": "0.0.3",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.2.2",
