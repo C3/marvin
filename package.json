@@ -1,6 +1,6 @@
 {
   "name": "bender",
-  "version": "2.8.0",
+  "version": "2.9.0",
   "private": true,
   "author": "Nick Butler <nick@codeindulgence.com>",
   "description": "Good at the bending",
@@ -24,6 +24,7 @@
     "hubot-shipit": "^0.2.0",
     "hubot-slack": "^3.3.0",
     "hubot-standup": "^0.1.8",
+    "hubot-urban": "^1.0.0",
     "hubot-youtube": "^1.0.1",
     "underscore": "^1.8.3"
   },
