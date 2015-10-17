@@ -1,11 +1,12 @@
 {
   "name": "bender",
-  "version": "2.9.0",
+  "version": "2.10.0",
   "private": true,
   "author": "Nick Butler <nick@codeindulgence.com>",
   "description": "Good at the bending",
   "dependencies": {
     "hubot": "^2.16.0",
+    "hubot-ambush": "0.0.3",
     "hubot-business-cat": "^1.2.5",
     "hubot-catme2": "0.0.3",
     "hubot-diagnostics": "0.0.1",
