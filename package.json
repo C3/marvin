@@ -1,6 +1,6 @@
 {
   "name": "bender",
-  "version": "2.10.0",
+  "version": "2.10.1",
   "private": true,
   "author": "Nick Butler <nick@codeindulgence.com>",
   "description": "Good at the bending",
@@ -14,7 +14,7 @@
     "hubot-google-translate": "^0.2.0",
     "hubot-help": "^0.1.1",
     "hubot-heroku-keepalive": "^1.0.0",
-    "hubot-httpcats": "^1.1.0",
+    "hubot-httpcats": "^1.1.1",
     "hubot-maps": "0.0.2",
     "hubot-meme": "codeindulgence/hubot-meme",
     "hubot-pugme": "^0.1.0",
