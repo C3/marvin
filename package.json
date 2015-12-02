@@ -1,9 +1,9 @@
 {
-  "name": "bender",
+  "name": "marvin",
   "version": "2.10.1",
   "private": true,
   "author": "Nick Butler <nick@codeindulgence.com>",
-  "description": "Good at the bending",
+  "description": "Has a brain the size of a planet, depression.",
   "dependencies": {
     "hubot": "^2.16.0",
     "hubot-ambush": "0.0.3",
