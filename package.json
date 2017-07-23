@@ -16,7 +16,7 @@
     "hubot-heroku-keepalive": "^1.0.0",
     "hubot-httpcats": "^1.1.1",
     "hubot-maps": "0.0.2",
-    "hubot-matteruser": "^3.5.1",
+    "hubot-matteruser": "^3.10.0",
     "hubot-meme": "codeindulgence/hubot-meme",
     "hubot-pugme": "^0.1.0",
     "hubot-redis-brain": "0.0.3",
