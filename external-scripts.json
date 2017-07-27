@@ -16,5 +16,6 @@
   "hubot-meme",
   "hubot-urban",
   "hubot-ambush",
-  "hubot-httpcats"
+  "hubot-httpcats",
+  "hubot-github"
 ]

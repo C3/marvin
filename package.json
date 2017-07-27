@@ -10,6 +10,7 @@
     "hubot-business-cat": "^1.2.5",
     "hubot-catme2": "0.0.3",
     "hubot-diagnostics": "0.0.1",
+    "hubot-github": "^0.2.0",
     "hubot-google-images": "^0.2.2",
     "hubot-help": "^0.1.1",
     "hubot-heroku-keepalive": "^1.0.0",
