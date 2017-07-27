@@ -11,7 +11,6 @@
     "hubot-catme2": "0.0.3",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.2.2",
-    "hubot-google-translate": "^0.2.0",
     "hubot-help": "^0.1.1",
     "hubot-heroku-keepalive": "^1.0.0",
     "hubot-httpcats": "^1.1.1",
@@ -25,8 +24,6 @@
     "hubot-rules": "^0.1.1",
     "hubot-scripts": "^2.16.2",
     "hubot-shipit": "^0.2.0",
-    "hubot-slack": "^3.3.0",
-    "hubot-standup": "^0.1.8",
     "hubot-urban": "^1.0.0",
     "hubot-youtube": "^1.0.1",
     "underscore": "^1.8.3"
